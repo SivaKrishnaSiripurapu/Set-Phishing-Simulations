@@ -1,9 +1,7 @@
 # Set-Phishing-Simulations
 
 This repository documents phishing simulation activities using the Social Engineering Toolkit (SET). It serves as a guide for security professionals, 
-
 penetration testers, and organizations to conduct controlled phishing tests and improve their defense mechanisms. The repository covers key aspects of 
-
 phishing simulation, from setting up phishing pages to analyzing captured credentials, and provides recommendations for mitigating social engineering threats.
 
 🔍 Key Features
